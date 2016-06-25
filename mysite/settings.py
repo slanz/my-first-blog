@@ -12,8 +12,7 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 
 import os
 
-# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Bui
 
 
 # Quick-start development settings - unsuitable for production
@@ -107,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'AMERICA/CHICAGO'
+TIME_ZONE = 'America/Chicago'
 
 USE_I18N = True
 
